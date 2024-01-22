@@ -13,4 +13,8 @@
 - [ ] [SEO NAVER](https://github.com/dhkdtld37/dhkdtld37.github.io/issues/6)
 
 ### 0.4.1
-- [ ] fix naver and add robots.txt
+- [ ] fix index.html and add robots.txt
+
+### 0.4.2
+- [ ] fix2  index.html
+
