@@ -8,3 +8,6 @@
 
 ### 0.3.0
 - [ ] naver searchadvisore
+
+### 0.4.0
+- [ ] [SEO NAVER](https://github.com/dhkdtld37/dhkdtld37.github.io/issues/6)
