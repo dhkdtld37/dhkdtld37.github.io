@@ -11,3 +11,6 @@
 
 ### 0.4.0
 - [ ] [SEO NAVER](https://github.com/dhkdtld37/dhkdtld37.github.io/issues/6)
+
+### 0.4.1
+- [ ] fix naver and add robots.txt
