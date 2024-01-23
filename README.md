@@ -1,39 +1,36 @@
-
-:mouse:
-
 <img src="https://velog.velcdn.com/images/dhkdtld37/post/7eee636e-6ef1-4b25-97b0-ccc2c31237d6/image.PNG">
 
+# 타이틀
+![image](https://github.com/dhkdtld37/dhkdtld37.github.io/assets/149128094/7e229877-a874-4b16-aa3c-e69e9d7f000c)
 
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+# 개발환경 및 방법
+|STG|BRANCH|TRIGGER|URL|
+|-----|---|---|---|
+|DEV|Branch of 
 
 
-Credits:
+# 배포 방법
 
-	Demo Images:
-		Unsplash (unsplash.com)
+```bash
+# manual firebase cmd*
+$ firebase deploy
 
-	Icons:
-		Font Awesome (fontawesome.io)
+=== Deploying to 'dhkdtld37'...
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+i  deploying hosting
+i  hosting[dhkdtld37-a]: beginning deploy...
+i  hosting[dhkdtld37-a]: found 351 files in /
+✔  hosting[dhkdtld37-a]: file upload complete
+i  hosting[dhkdtld37-a]: finalizing version...
+✔  hosting[dhkdtld37-a]: version finalized
+i  hosting[dhkdtld37-a]: releasing new version...
+✔  hosting[dhkdtld37-a]: release complete
+
+✔  Deploy complete!
+
+Project Console: https://console.firebase.google.com/project/dhkdtld37/overview
+Hosting URL: https://dhkdtld37-a.web.app
+```
+
+# 디자인 템플릿 원천 코드
+https://html5up.net/hyperspace
