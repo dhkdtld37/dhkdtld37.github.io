@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "dhkdtld37-a",	  
     "public": "/",
     "ignore": [
       "firebase.json",
