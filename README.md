@@ -1,7 +1,7 @@
 
 :mouse:
 
-<img src="https://velog.velcdn.com/images/dhkdtld37/post/7eee636e-6ef1-4b25-97b0-ccc2c31237d6/image.PNG" height="100" width="100">
+<img src="https://velog.velcdn.com/images/dhkdtld37/post/7eee636e-6ef1-4b25-97b0-ccc2c31237d6/image.PNG">
 
 
 Hyperspace by HTML5 UP
