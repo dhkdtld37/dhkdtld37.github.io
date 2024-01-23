@@ -25,16 +25,21 @@
 - [X] fix4  index.html
 
 ### 0.5.0
-- [ ] firebase & deploy dev STG
+- [X] firebase & deploy dev STG
 
 ### 0.6.0
-- [ ] study CSS
+- [X] study CSS
 
 ### 0.7.0
-- [ ] resume
+- [X] resume
 
 ### 0.8.0
-- [ ] resume.html
+- [X] resume.html
+
+### 0.8.1
+- [ ] fix resume.html
+
+
 
 
 
